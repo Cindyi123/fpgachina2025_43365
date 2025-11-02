@@ -1,0 +1,37 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Feb 19 22:33:35 2025
+| Host         : DESKTOP-PNC726M running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_pl_bram_rd_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_pl_bram_rd_0_0 (xilinx.com:user:pl_bram_rd:1.0 (Rev. 4)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Feb 19 22:33:35 2025
+| Host         : DESKTOP-PNC726M running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_P_traget_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_P_traget_0 (xilinx.com:user:pl_bram_rd:1.0 (Rev. 4)) to Vivado generation flows.
+
